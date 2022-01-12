@@ -1,0 +1,4 @@
+defaults:
+  - dataset: dataset1
+
+num_samples: 2
