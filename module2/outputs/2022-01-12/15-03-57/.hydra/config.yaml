@@ -1,5 +1,0 @@
-dataset:
-  image:
-    size: 124
-    channels: 3
-  classes: 15
